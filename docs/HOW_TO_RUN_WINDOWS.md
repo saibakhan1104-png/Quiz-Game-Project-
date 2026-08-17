@@ -193,7 +193,7 @@ C:\apache-tomcat-10.1.xx
 Open **Command Prompt**:
 
 ```bat
-cd C:\Users\YOUR_NAME\Desktop\projects\swaccha_project
+cd D:\OOPD project\Quiz-Game
 mvn clean package
 ```
 
