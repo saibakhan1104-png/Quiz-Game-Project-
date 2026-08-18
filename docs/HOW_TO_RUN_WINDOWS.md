@@ -102,13 +102,13 @@ If `mysql` is not found, use the full path. Example:
 Then inside MySQL you can run:
 
 ```sql
-SOURCE C:/Users/YOUR_NAME/Desktop/projects/swaccha_project/database/tangail_quiz_db.sql;
+SOURCE D:/OOPD project/Quiz-Game/database/tangail_quiz_db.sql;
 ```
 
 Or from Command Prompt (easier):
 
 ```bat
-cd C:\Users\YOUR_NAME\Desktop\projects\swaccha_project
+cd D:\OOPD project\Quiz-Game
 
 "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysql.exe" -u root -p < database\tangail_quiz_db.sql
 ```
