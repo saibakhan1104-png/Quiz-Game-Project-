@@ -102,7 +102,7 @@ If `mysql` is not found, use the full path. Example:
 Then inside MySQL you can run:
 
 ```sql
-SOURCE D:/OOPD project/Quiz-Game/database/tangail_quiz_db.sql;
+SOURCE D:\OOPD project\Quiz-Game\database\tangail_quiz_db.sql;
 ```
 
 Or from Command Prompt (easier):
